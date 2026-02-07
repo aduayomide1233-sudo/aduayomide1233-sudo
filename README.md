@@ -34,13 +34,16 @@ I'm here to help you succeed.
 - **Report Writing & Documentation**
 - **Data Interpretation & Insights**
 
+## 📁 Projects:
+Check out my [Portfolio](portfolio.html) to see my work in action!
+
 ## 📫 Let's Connect:
-- [Twitter[((https://x.com/AAyomide74182))
-- Email: [Aduayomide706@gmail.com]
+- **Twitter:** [Follow me on Twitter](https://x.com/AAyomide74182)
+- **Email:** [Aduayomide706@gmail.com](mailto:Aduayomide706@gmail.com)
 
 Feel free to explore my repositories and contribute to any projects that interest you. Let's build something amazing together!
 
-### Tech Tools I Use:
+## 🛠️ Tech Tools I Use:
 ![SQL](https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
 ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black)
